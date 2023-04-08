@@ -18,8 +18,6 @@
 
 ### API Link : https://api.imgflip.com/get_memes
 
-## See a Demo : [https://logicalmemegenerator.netlify.app/](https://logicalmemegenerator.netlify.app/)
-
 ### Screenshots of the website
 ![](images/1.png)
 
